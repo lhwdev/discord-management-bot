@@ -1,0 +1,8 @@
+servers:
+  #  covid-selftest-macro: # 자가진단 매크로
+  #    id: 868429217740783637
+  staging:
+    id: 919974679559688232
+
+admins:
+  - 551597391741059083 # lhwdev
